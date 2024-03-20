@@ -1,4 +1,4 @@
-# Create quiz questions for importing into the assessment tool (Inspera) through QTI files
+# Create quiz questions in CustumGPT for importing into the assessment tool (Inspera) through QTI files
 See [Quiz Questions, distractors... QTI-file Inspera](https://chat.openai.com/g/g-oU6OEaoMh-quiz-questions-distractors-qti-file-inspera)
  
 
