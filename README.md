@@ -15,7 +15,9 @@ Beta Evaluation in Phase 3: This phase is in beta, aiming to evaluate the qualit
 
 **Phase 3** is dedicated to a rigorous analysis of the generated quiz questions. This includes evaluating the plausibility of incorrect answers, the variation among distractors, and the balance of answer options to ensure each question is educationally beneficial.
 
-
+**Quick Start Guide**
+Upload the textbook, curriculum, and details about the content, subject, or concept for which you want to generate a quiz. 
+Start to experiment with the commands! 
 
 
 # Quiz Creation Process
