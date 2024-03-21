@@ -2,11 +2,11 @@
 See [Quiz Questions, distractors... QTI-file Inspera](https://chat.openai.com/g/g-oU6OEaoMh-quiz-questions-distractors-qti-file-inspera)
  
 
-### Welcome to a project designed to enhance the process of creating educational quizzes through detailed instructions and specific commands tailored for GPT. This initiative started with the idea of utilizing hybrid code or pseudocode but has evolved into a more structured set of "mini-prompts". The process of creating an educational quiz involves three key phases: Background Preparation, Question Creation, and Output Analysis (BETA).
+### Welcome to a project designed to enhance the process of creating educational quizzes through detailed instructions and specific commands tailored for GPT. This initiative started with the idea of utilizing hybrid code or pseudocode but has evolved into a more structured set of "micro-prompts". The process of creating an educational quiz involves three key phases: Preparation, Question Creation, and Output Analysis (BETA).
 
-### Highlights:
+### "Brief information
 
-Focus on Phase 2: The core of this guide is dedicated to the creation of quiz questions, providing a systematic approach to crafting both questions and answers for a more effective learning experience.
+Phase 2: The core of this guide is dedicated to the creation of quiz questions, providing a systematic approach to crafting both questions and answers for a more effective learning experience.
 Beta Evaluation in Phase 3: This phase is in beta, aiming to evaluate the quality of the generated quiz questions. While showing promise, it's an area where further improvements are being explored.
 
 **Phase 1** focuses on analyzing textbooks to pinpointing misconceptions, and aligning with the curriculum to establish clear assessment goals. The focus is on Misconception Identification, alongside ensuring Curriculum Alignment.
@@ -57,7 +57,7 @@ Adjust the quiz content based on this analysis to better target misconceptions a
 Plan for iterative improvements to the quiz, incorporating feedback from students and educators to enhance its educational value.
 
 ## Commands for GPT-4: 
-While the process is structured and detailed, implementing it directly within GPT-4 may require specific commands or interactions, especially for tasks like curriculum alignment and concept analysis. Users might need to explore and experiment with commands like /information or /upload to navigate these phases effectively.
+While the process is structured and detailed, implementing it directly within GPT-4 may require specific commands or interactions, especially for tasks like curriculum alignment and concept analysis. Users might need to explore and experiment with commands like /to navigate these phases effectively.
 This structured approach to quiz creation emphasizes a deep understanding of subject matter, alignment with educational standards, and responsiveness to students' learning needs. By following these phases and tasks, educators can develop quizzes that are not only informative but also diagnostic, allowing for targeted teaching interventions.
 
 
